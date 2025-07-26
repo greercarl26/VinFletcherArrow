@@ -1,0 +1,14 @@
+C:\Coding\VinFletchersArrow\VinFletchersArrow\bin\Debug\net9.0\VinFletchersArrow.exe
+C:\Coding\VinFletchersArrow\VinFletchersArrow\bin\Debug\net9.0\VinFletchersArrow.deps.json
+C:\Coding\VinFletchersArrow\VinFletchersArrow\bin\Debug\net9.0\VinFletchersArrow.runtimeconfig.json
+C:\Coding\VinFletchersArrow\VinFletchersArrow\bin\Debug\net9.0\VinFletchersArrow.dll
+C:\Coding\VinFletchersArrow\VinFletchersArrow\bin\Debug\net9.0\VinFletchersArrow.pdb
+C:\Coding\VinFletchersArrow\VinFletchersArrow\obj\Debug\net9.0\VinFletchersArrow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\VinFletchersArrow\VinFletchersArrow\obj\Debug\net9.0\VinFletchersArrow.AssemblyInfoInputs.cache
+C:\Coding\VinFletchersArrow\VinFletchersArrow\obj\Debug\net9.0\VinFletchersArrow.AssemblyInfo.cs
+C:\Coding\VinFletchersArrow\VinFletchersArrow\obj\Debug\net9.0\VinFletchersArrow.csproj.CoreCompileInputs.cache
+C:\Coding\VinFletchersArrow\VinFletchersArrow\obj\Debug\net9.0\VinFletchersArrow.dll
+C:\Coding\VinFletchersArrow\VinFletchersArrow\obj\Debug\net9.0\refint\VinFletchersArrow.dll
+C:\Coding\VinFletchersArrow\VinFletchersArrow\obj\Debug\net9.0\VinFletchersArrow.pdb
+C:\Coding\VinFletchersArrow\VinFletchersArrow\obj\Debug\net9.0\VinFletchersArrow.genruntimeconfig.cache
+C:\Coding\VinFletchersArrow\VinFletchersArrow\obj\Debug\net9.0\ref\VinFletchersArrow.dll
